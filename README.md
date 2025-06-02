@@ -1,3 +1,4 @@
+![Captura de tela 2025-04-20 161736](https://github.com/user-attachments/assets/f9bef443-4703-4906-b374-7c06f69fa166)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
